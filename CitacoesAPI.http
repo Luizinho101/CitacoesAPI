@@ -1,0 +1,6 @@
+@CitacoesAPI_HostAddress = http://localhost:5238
+
+GET {{CitacoesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
